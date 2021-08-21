@@ -7,8 +7,7 @@ BL='\033[0;34m' #Blue Text
   do
     printf "${YL}Starting Minecraft Server ${NC}"
     echo
-    #java -Xmx4096M -jar spigot-1.17.1.jar nogui
-    printf "${BL}Minecraft Server  Starts here ${NC}"
+    java -Xmx3328M -jar spigot-1.17.1.jar nogui
   	# show menu
   	clear
   	echo "---------------------------------"
