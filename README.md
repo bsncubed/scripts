@@ -8,3 +8,4 @@ IP Finder is a script to run on a raspberry pi/debian linux machece that outputs
 sharepoint-backup.bash does what is says on the tin. creates a tar of a folder, adds a date to the name and runs rclone to get it where it needs to go. It doesn't  have to be sharepoint, any rclone option can work. Requires rclone to be set up and running.
 
 testw
+rr
